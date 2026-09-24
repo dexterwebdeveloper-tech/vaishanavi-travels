@@ -1,6 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './css/all.min.css';
+import './css/animate.css';
+import './css/color.css';
+import './css/datepickerboot.css';
+import './css/main.css';
+import './css/meanmenu.css';
+import './css/nice-select.css';
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
