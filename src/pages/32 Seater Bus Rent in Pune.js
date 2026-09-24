@@ -723,7 +723,7 @@ const productSchema = {
 
                     <address className="pc-address">
                       <strong>Vaishnavi Travels</strong><br />
-                      Prathmesh Park Baner, Pune Maharashtra 411045
+                      Shop No 5, HQPJ+3J3, New DP Rd, near Cell Petroleum, Akshay Nagar Society, Nandanwan Society, Vishal Nagar, Pimple Nilakh, Pimpri-Chinchwad, Pune, Maharashtra 411027
                     </address>
                   </section>
                 </div>

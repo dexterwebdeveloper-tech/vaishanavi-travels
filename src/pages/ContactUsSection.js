@@ -71,15 +71,14 @@ const ContactUsSection = () => {
                 </div>
                 <div className="content">
                   <h3>Our Address</h3>
-                  <p>Prathmesh Park Baner, Pune Maharashtra 411045</p>
+                  <p>Shop No 5, HQPJ+3J3, New DP Rd, near Cell Petroleum, Akshay Nagar Society, Nandanwan Society, Vishal Nagar, Pimple Nilakh, Pimpri-Chinchwad, Pune, Maharashtra 411027</p>
                 </div>
               </div>
             </div>
           </div>
 
+    <iframe src="https://www.google.com/maps/embed?pb=!3m2!1sen!2sin!4v1790223349416!5m2!1sen!2sin!6m8!1m7!1siWm6x-i-1qA6jZCErwDOAA!2m2!1d18.58516603624576!2d73.7817432900832!3f244.79576930760527!4f11.071244338675385!5f0.4004233368561733" width="auto" height="450" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m27!1m12!1m3!1d186.82748326854218!2d73.78131698923767!3d18.569424763915027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m12!3e2!4m4!2s18.5694315%2C%2073.7814408!3m2!1d18.5694315!2d73.7814408!4m5!1s0x3bc2b932cbaa32c9%3A0x2097b9f765a7ec4e!2s101-17%2C%20Baner%20-%20%20Balewadi%20Road%2C%20Baner!3m2!1d18.5694822!2d73.78139039999999!5e1!3m2!1sen!2sin!4v1758260837686!5m2!1sen!2sin" width="auto" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 
